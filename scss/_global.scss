@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    position:o;
+    box-sizing: border-box;
+}
+
+ul, ol{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+   
+     cursor: pointer;
+}
+
+body{
+    font-family: "Poppins";
+}
+
+.container{
+    min-width: 1267px;
+    width: 100%;
+    margin: 0 auto;
+    position:o 20px;
+}
+
